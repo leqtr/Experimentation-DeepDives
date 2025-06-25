@@ -5,7 +5,7 @@ A curated library of concise articles paired with python notebooks, each tacklin
 Every entry is tagged with its current status (Completed, In Progress, or Planned), so you can follow the series as it evolves. 
 
 These deep dives help me solidify my understanding, and I’d love to hear your feedback and insights. 
-If you have a topic in mind that you would like me to cover, feel free to send me a message on Telegram: **@lequangtri**
+If you have a topic in mind that you would like me to cover, feel free to send me a message on Telegram: [lequangtri](https://t.me/lequangtri), or connect on LinkedIn: [lequangtri](https://www.linkedin.com/in/lequangtri/)
 
 ## Articles & Notebooks
 | # | Title | Status | Article | Python Notebook | 
