@@ -10,7 +10,7 @@ If you have a topic in mind that you would like me to cover, feel free to send m
 ## Articles & Notebooks
 | # | Title | Status | Article | Python Notebook | 
 |-|-|-|-|-|
-| 01 | **When Your A/B Test Hits the MDE (Ron Kohavi’s P-Value Brain-Teaser)** | ✅<br>Completed | [Link](articles/01_When_Your_AB_Test_Hits_The_MDE/When_Your_AB_Test_Hits_the_MDE.pdf) | [Link](articles/01_When_Your_AB_Test_Hits_The_MDE/When_Your_AB_Test_Hits_The_MDE.ipynb)  |
+| 01 | **When Your A/B Test Hits the MDE (Ron Kohavi’s P-Value Brain-Teaser)** | ✅<br>Completed | [Link](articles/01_When_Your_AB_Test_Hits_The_MDE/When_Your_AB_Test_Hits_The_MDE.pdf) | [Link](articles/01_When_Your_AB_Test_Hits_The_MDE/When_Your_AB_Test_Hits_The_MDE.ipynb)  |
 | 02 | **Is Significance Enough to Launch? Building Trustworthy CIs** | ⏳<br>Ongoing | TBA | TBA |
 | 03 | **Why Bonferroni-Style FWER Corrections Break Down in Multi-Metric A/B Tests, Part I** | 📌<br>Planned | TBA | TBA |
 | 04 | **Strategic Gatekeeping: Fixed-Sequence & Family-Wise Control for Robust A/B Testing, Part II** | 📌<br>Planned | TBA | TBA |
